@@ -31,7 +31,7 @@
       href="./favicon-16x16new.png"
     />
     <link rel="manifest" href="./site.webmanifest" />
-    <title>Hello, World! with PHP</title>
+    <title>Hello, World! in PHP</title>
   </head>
 
   <body>
